@@ -5,3 +5,8 @@ jspm_packages
 # Serverless directories
 .serverless
 .webpack
+
+# database config
+src/config_mssql_backup.ts
+src/config_postgres.ts
+src/config.ts
